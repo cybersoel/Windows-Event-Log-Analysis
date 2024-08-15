@@ -8,7 +8,7 @@ Became familiar with the structure of, and how to analyse, Windows Event logs.
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/VVgzLtN.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
